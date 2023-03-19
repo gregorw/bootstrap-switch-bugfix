@@ -5,7 +5,8 @@ import { resolve } from "path";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [svelte()],
-    build: {
+  base: "/bootstrap-switch/",
+  build: {
     outDir: 'docs',
     rollupOptions: {
       input: {
