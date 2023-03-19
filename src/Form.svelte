@@ -1,13 +1,13 @@
 <script>
-  export let bug = false
+  export let bugfix = false
 </script>
 
 <section class="container">
   <div class="form-check form-switch mb-3">
     <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault">
     <label class="form-check-label" for="flexSwitchCheckDefault">I agree</label>
-    {#if bug}
-      <span class="badge rounded-pill text-bg-danger">Bug</span>
+    {#if bugfix}
+      <span class="badge rounded-pill text-bg-success">Fixed</span>
     {/if}
   </div>
   <div class="mb-3">
