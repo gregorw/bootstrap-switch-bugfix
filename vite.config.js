@@ -6,6 +6,7 @@ import { resolve } from "path";
 export default defineConfig({
   plugins: [svelte()],
     build: {
+    outDir: 'docs',
     rollupOptions: {
       input: {
         bugfix_square: resolve(__dirname, 'bugfix-square.html'),
