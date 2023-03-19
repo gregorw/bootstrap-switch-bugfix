@@ -6,6 +6,7 @@ import { resolve } from "path";
 export default defineConfig({
   plugins: [svelte()],
   base: "/bootstrap-switch/",
+  publicDir: 'docs',
   build: {
     outDir: 'docs',
     rollupOptions: {

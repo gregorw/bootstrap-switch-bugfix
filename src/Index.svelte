@@ -14,7 +14,7 @@
           $enable-rounded: false;
         </code>
       </p>
-      <iframe title="Rectangular" src="/rectangular.html" frameborder="0" class="iframe"></iframe>
+      <iframe title="Rectangular" src="/bootstrap-switch/rectangular.html" frameborder="0" class="iframe"></iframe>
     </div>
     <div class="col col-6 col-lg-3">
       <h3>Default</h3>
@@ -23,7 +23,7 @@
           // default settings
         </code>
       </p>
-      <iframe title="Default" src="/default.html" frameborder="0" class="iframe"></iframe>
+      <iframe title="Default" src="/bootstrap-switch/default.html" frameborder="0" class="iframe"></iframe>
     </div>
     <div class="col col-6 col-lg-3">
       <h3>Round</h3>
@@ -32,7 +32,7 @@
           $border-radius: .2em;
         </code>
       </p>
-      <iframe title="Round" src="/round.html" frameborder="0" class="iframe"></iframe>
+      <iframe title="Round" src="/bootstrap-switch/round.html" frameborder="0" class="iframe"></iframe>
       <p class="alert alert-warning" role="alert">The <code>$border-radius</code> setting is neither applied to the switch nor the checkboxes.</p>
     </div>
     <div class="col col-6 col-lg-3">
@@ -42,7 +42,7 @@
           $border-radius: 0;
         </code>
       </p>
-      <iframe title="No radius" src="/not-round.html" frameborder="0" class="iframe"></iframe>
+      <iframe title="No radius" src="/bootstrap-switch/not-round.html" frameborder="0" class="iframe"></iframe>
       <p class="alert alert-warning" role="alert">The <code>$border-radius</code> setting is neither applied to the switch nor the checkboxes.</p>
     </div>
   </div>
@@ -63,7 +63,7 @@
           $enable-rounded: false;
         </code>
       </p>
-      <iframe title="Square" src="/bugfix-square.html" frameborder="0" class="iframe"></iframe>
+      <iframe title="Square" src="/bootstrap-switch/bugfix-square.html" frameborder="0" class="iframe"></iframe>
     </div>
   </div>
 
