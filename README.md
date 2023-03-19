@@ -1,3 +1,3 @@
-# Bootstrap Switch Component
+# Bootstrap Switch Component fixed
 
-See [gregorw.github.io/bootstrap-switch](https://gregorw.github.io/bootstrap-switch).
+See [gregorw.github.io/bootstrap-switch-bugfix](https://gregorw.github.io/bootstrap-switch-bugfix).
